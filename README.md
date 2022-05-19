@@ -1,5 +1,4 @@
-<a href="#"><img width="100%" height="400px"  src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e478txwcjle9kngp73qhzfr1bim0zccokrvomqa2ter&rid=giphy.gif&ct=g"/></a>
-<!-- https://i.imgur.com/iXuL1HG.png -->
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mukesh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
